@@ -6,7 +6,6 @@ The source code for the following projects can be be found here on **GitHub**:
 - [Image Processing Library](https://github.com/freedom35/image-processing) - .NET Standard library written in C#, also available as a package on [NuGet](https://www.nuget.org/packages/Freedom35.ImageProcessing).
 - [Backup Utility](https://github.com/freedom35/backup-util-dotnet-core) - Command line app written in C#.
 - [SQLite to Markdown App](https://github.com/freedom35/python-sqlite-to-markdown) - Python app to export SQLite query results to markdown.
-- [Python Modules](https://github.com/freedom35/python-modules) - General purpose Python modules.
 
 ## else if (lookingFor == Source.Closed)
 The source code for the following project is not publicly available, but you can check out the released version:
